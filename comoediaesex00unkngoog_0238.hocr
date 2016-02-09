@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediaesex00unkngoog_0238.png"; bbox 0 0 760 1233; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 18 409 543 525">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 18 409 543 525">
+     <span class='ocr_line' id='line_1_1' title="bbox 18 409 19 434; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 18 409 19 434; x_wconf 60' lang='lat'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 127 499 543 525; baseline 0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 127 499 293 524; x_wconf 88' lang='lat' dir='ltr'>PUBLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 320 499 543 525; x_wconf 86' lang='lat' dir='ltr'>TERENTII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 198 577 476 594">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 198 577 476 594">
+     <span class='ocr_line' id='line_1_3' title="bbox 198 577 476 594; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 198 577 407 594; x_wconf 74' lang='lat' dir='ltr'><strong>CARTRAGINIENSIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 420 577 476 593; x_wconf 73' lang='lat' dir='ltr'>AFRI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 116 647 549 673">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 116 647 549 673">
+     <span class='ocr_line' id='line_1_4' title="bbox 116 647 549 673; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 116 648 284 673; x_wconf 76' lang='lat' dir='ltr'><strong>HEAUTON</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 288 648 501 673; x_wconf 87' lang='lat' dir='ltr'>TIMORUMEN</span> <span class='ocrx_word' id='word_1_8' title='bbox 502 647 549 673; x_wconf 88' lang='lat' dir='ltr'><strong>OS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
